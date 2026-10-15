@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Somi Yadav | Science & Biology Teacher",
   description: "Friendly Science lessons for Classes 3–10 and Biology learning resources for Classes 11–12 with Somi Yadav.",
+  verification: {
+    google: "t1vaVwP-KdHGOS54P38qMNh5OiW6fhlktf4sTrtqH8Q",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
