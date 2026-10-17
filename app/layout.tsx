@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Somi Yadav | Science & Biology Teacher",
   description: "Friendly Science lessons for Classes 3–10 and Biology learning resources for Classes 11–12 with Somi Yadav.",
   verification: {
-    google: "t1vaVwP-KdHGOS54P38qMNh5OiW6fhlktf4sTrtqH8Q",
+    google: "8_MWAu_jnqi7pCXXAlgaohGpevyfltOoD9KGWHX6udk",
   },
 };
 
