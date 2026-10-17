@@ -22,3 +22,4 @@ The blog, video, notes, and practice cards are placeholders for Somi's future co
 - `app/page.tsx` — page content and sections
 - `app/globals.css` — styles and responsive layout
 - `app/layout.tsx` — root layout and metadata
+dummy commit
